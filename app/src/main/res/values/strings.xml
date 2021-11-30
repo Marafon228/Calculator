@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="Text_equal">=</string>
+    <string name="Text_Button_Add">+</string>
+    <string name="Text_Button_Subtract">-</string>
+    <string name="Text_Button_Divide">/</string>
+    <string name="Text_Button_Multiple">*</string>
+    <string name="Tetx_Button_Clean">C</string>
+</resources>
