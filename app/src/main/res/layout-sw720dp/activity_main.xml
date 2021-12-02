@@ -25,7 +25,8 @@
             android:background="@color/white"
             android:inputType="numberSigned"
             android:textColor="@color/black"
-            android:textSize="100sp" />
+            android:textSize="100sp"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/operation"
@@ -44,7 +45,8 @@
             android:background="@color/white"
             android:inputType="numberSigned"
             android:textColor="@color/black"
-            android:textSize="100sp" />
+            android:textSize="100sp"
+            tools:ignore="SpeakableTextPresentCheck" />
 
         <TextView
             android:id="@+id/equal"
