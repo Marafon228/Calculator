@@ -81,7 +81,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Text_Button_Add"
-            android:textSize="30sp"
+            android:textSize="35sp"
             app:layout_rowSpan="2"
             app:layout_gravity="fill_vertical" />
 
@@ -90,14 +90,14 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Text_Button_Subtract"
-            android:textSize="30sp" />
+            android:textSize="35sp" />
 
         <Button
             android:id="@+id/buttonDivide"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Text_Button_Divide"
-            android:textSize="30sp"
+            android:textSize="35sp"
             app:layout_columnSpan="1"
             app:layout_gravity="fill_horizontal"/>
 
@@ -106,7 +106,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Text_Button_Multiple"
-            android:textSize="30sp"
+            android:textSize="35sp"
             app:layout_columnSpan="1"
             app:layout_gravity="fill_horizontal"/>
 
@@ -114,7 +114,7 @@
             android:id="@+id/buttonStep"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="30sp"
+            android:textSize="35sp"
             app:layout_columnSpan="1"
             app:layout_gravity="fill_horizontal"
             android:text="@string/Text_Button_step" />
@@ -124,7 +124,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/Tetx_Button_Clean"
-            android:textSize="30sp"
+            android:textSize="35sp"
             app:layout_columnSpan="3"
             app:layout_gravity="fill_horizontal"/>
     </androidx.gridlayout.widget.GridLayout>

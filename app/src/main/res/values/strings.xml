@@ -6,4 +6,5 @@
     <string name="Text_Button_Divide">/</string>
     <string name="Text_Button_Multiple">*</string>
     <string name="Tetx_Button_Clean">C</string>
+    <string name="Text_Button_step">^</string>
 </resources>
